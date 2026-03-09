@@ -8,7 +8,7 @@ Blocks:
 - Sculk jaw
 
 Items:
--Shade spawn egg
+- Shade spawn egg
 
 Features: 
 - Sculk jaws trap anything that walks on it and damage it over time. Repeatedly jumping will cause the jaw to relax and let whatever was trapped in it escape.
