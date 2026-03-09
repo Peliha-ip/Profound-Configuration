@@ -4,7 +4,7 @@ This is a Minecraft mod that adds the long-awaited Deep Dark dimension, alongsid
 Mobs:
 - Shade
 
-Blocks: 
+Blocks:
 - Sculk jaw
 
 Items:
