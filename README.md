@@ -6,7 +6,7 @@ Mobs:
 - Stalker
 - Hollowed
 - Sculk wyrm
-- Trypoculk mite
+- Tryposculk mite
 - Sculk caterpillar
 - Sculk moth
 - Sculk zombie
