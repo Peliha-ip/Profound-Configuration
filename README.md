@@ -6,7 +6,6 @@ Mobs:
 - Stalker
 - Hollowed
 - Sculk wyrm
-- Cybercat
 - Sculk mite
 - Sculk moth
 - Sculk zombie
@@ -113,6 +112,7 @@ Features:
 - Iron tubes can be obtained from crafting one glass block with two iron nuggets. Using iron tubes on neon will make neon sticks, an ingredient for neon lights.
 - Sculkium dowsers can be used to locate ores and structures.
 - Trojan horses can be used to hide iron golems or byte worms.
+- Sculk moths are hostile their whole life; they're far from nice. They're even bigger than most birds.
 
 Advancements:
 - A Cyber's World (Enter the Cyber dimension)
