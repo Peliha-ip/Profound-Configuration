@@ -6,9 +6,14 @@ Mobs:
 - Stalker
 - Hollowed
 - Sculk wyrm
-- Sculk mite
+- Trypoculk mite
+- Sculk caterpillar
 - Sculk moth
 - Sculk zombie
+- Sculk leech
+- Sculk cube
+- Patinasculk cube
+- Tryposculk cube
 - IP tracker
 - Glitchling
 - Pop-upper
@@ -16,6 +21,16 @@ Mobs:
 - Nerd creeper
 - Cyberfish
 - Cybercat
+- Packet runner
+- Pixel jelly
+- Cache crab
+- Spammer
+- Lagger
+- Emoji slime
+- Cable snake
+- Moderator
+- Ad drone
+- Redstone bug
 
 Blocks:
 - Sculk jaw
@@ -32,19 +47,21 @@ Blocks:
 - Neowood fence gate
 - Neowood door
 - Neowood trapdoor
-- Stalksculk
-- Stalksculk veins
-- Stalksculk catalyst
-- Stalksculk sensor
-- Stalksculk shrieker
+- Patinasculk
+- Patinasculk veins
+- Patinasculk catalyst
+- Patinasculk sensor
 - Tryposculk
 - Tryposculk veins
 - Tryposculk catalyst
 - Tryposculk sensor
-- Tryposculk shrieker
 - Sculkium block
 - Sculkium ore
 - Sculk cocoon
+- Sculk amplifier
+- Patinasculk amplifier
+- Tryposculk amplifier
+- Neon gate
 
 Items:
 - Trojan horse
@@ -57,6 +74,12 @@ Items:
 - Bottle of neon
 - Sculkium
 - Sculkium dowser
+- Sculk membrane
+- Sculk residue
+- Sculk enzyme
+- Sculk tape
+- Patinasculk tape
+- Tryposculk tape
 - Bucket of neon
 - Bucket of cyberfish
 - Shade spawn egg
@@ -66,6 +89,9 @@ Items:
 - Sculk caterpillar spawn egg
 - Sculk moth spawn egg
 - Sculk zombie spawn egg
+- Tryposculk mite spawn egg
+- Sculk leech spawn egg
+- Sculk cube spawn egg
 - IP tracker spawn egg
 - Glitchling spawn egg
 - Pop-upper spawn egg
@@ -73,6 +99,16 @@ Items:
 - Nerd creeper spawn egg
 - Cyberfish spawn egg
 - Cybercat spawn egg
+- Packet runner spawn egg
+- Pixel jelly spawn egg
+- Cache crab spawn egg
+- Spammer spawn egg
+- Lagger spawn egg
+- Emoji slime spawn egg
+- Cable snake spawn egg
+- Moderator spawn egg
+- Ad drone spawn egg
+- Redstone bug spawn egg
 
 Dimensions:
 - Sculk
@@ -93,13 +129,21 @@ Biomes:
 
 Structures:
 - Neon lake
+- Sculk hive
+- Cyber terminal
+- Data vault
+- Neon travel node
 
 Foods:
 - Raw cyberfish
 - Cooked cyberfish
 
-Effect:
+Effects:
 - Laughing From the Cybercat
+- Cookie Power
+- Lag
+- Sculk warrior
+- VPN
 
 Features: 
 - Sculk jaws trap anything that walks on it and damage it over time. Repeatedly jumping will cause the jaw to relax and let whatever was trapped in it escape.
@@ -113,9 +157,16 @@ Features:
 - Sculkium dowsers can be used to locate ores and structures.
 - Trojan horses can be used to hide iron golems or byte worms.
 - Sculk moths are hostile their whole life; they're far from nice. They're even bigger than most birds.
+- Sculk tape is an item that can transform any block into sculk. However, there's a risk because every time sculk tape is used, there's a chance that a sculk cube for each kind can appear.
+- Cookies are now an essential food to have when adventuring in the Cyber dimension.
+- The VPN effect makes anything with it invisible to IP trackers.
+- Neon gates can only be entered if the player has the cookie power effect. Otherwise, they don't open.
+- When using neon travel nodes, players need to have cookies on them, as each use consumes one cookie.
+- The cookie power effect allows the player to pass through neon gates, but increases the detection range of cyber mobs.
 
 Advancements:
 - A Cyber's World (Enter the Cyber dimension)
 - Jesus, What Am I About To Do (Enter the sculk dimension)
 - Party Time (Use an iron tube on neon)
 - No Need For X-Ray (Craft a sculkium dowser)
+- Sponsored By NordVPN... Not Really (Hide yourself from an IP tracker with the VPN effect)
