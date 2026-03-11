@@ -133,6 +133,7 @@ Structures:
 - Cyber terminal
 - Data vault
 - Neon travel node
+- Neon terminal
 
 Foods:
 - Raw cyberfish
