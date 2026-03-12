@@ -15,6 +15,7 @@ Mobs:
 - Patinasculk cube
 - Tryposculk cube
 - Wraith
+- Werewolf
 - IP tracker
 - Glitchling
 - Pop-upper
@@ -81,6 +82,7 @@ Items:
 - Sculk tape
 - Patinasculk tape
 - Tryposculk tape
+- Werewolf harp
 - Bucket of neon
 - Bucket of cyberfish
 - Shade spawn egg
@@ -94,6 +96,7 @@ Items:
 - Sculk leech spawn egg
 - Sculk cube spawn egg
 - Wraith spawn egg
+- Werewolf spawn egg
 - IP tracker spawn egg
 - Glitchling spawn egg
 - Pop-upper spawn egg
@@ -166,6 +169,7 @@ Features:
 - Neon gates can only be entered if the player has the cookie power effect. Otherwise, they don't open.
 - When using neon travel nodes, players need to have cookies on them, as each use consumes one cookie.
 - The cookie power effect allows the player to pass through neon gates, but increases the detection range of cyber mobs.
+- Werewolves are undead mobs that use music to attack, very reminiscent of a certain villain/sensei from Skylanders.
 
 Advancements:
 - A Cyber's World (Enter the Cyber dimension)
@@ -173,3 +177,5 @@ Advancements:
 - Party Time (Use an iron tube on neon)
 - No Need For X-Ray (Craft a sculkium dowser)
 - Sponsored By NordVPN... Not Really (Hide yourself from an IP tracker with the VPN effect)
+- Let There Be Rock... AOOOOOOOOOO! (Craft a werewolf harp)
+- Big Bad Woofer (Bring a werewolf to the Cyber dimension)
