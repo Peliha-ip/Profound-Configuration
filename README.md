@@ -14,6 +14,7 @@ Mobs:
 - Sculk cube
 - Patinasculk cube
 - Tryposculk cube
+- Wraith
 - IP tracker
 - Glitchling
 - Pop-upper
@@ -92,6 +93,7 @@ Items:
 - Tryposculk mite spawn egg
 - Sculk leech spawn egg
 - Sculk cube spawn egg
+- Wraith spawn egg
 - IP tracker spawn egg
 - Glitchling spawn egg
 - Pop-upper spawn egg
