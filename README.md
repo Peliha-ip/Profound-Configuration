@@ -124,7 +124,7 @@ Fluid:
 
 Biomes:
 - Sculk
-- Stalksculk
+- Patinasculk
 - Tryposculk
 - Cyber plains
 - Cyber forests
