@@ -15,6 +15,8 @@ Mobs:
 - Patinasculk cube
 - Tryposculk cube
 - Wraith
+- Hive mother
+- Sculk Leviathan
 - Werewolf
 - IP tracker
 - Glitchling
@@ -33,6 +35,9 @@ Mobs:
 - Moderator
 - Ad drone
 - Redstone bug
+- Malware core
+- Shady
+- Kingpin
 
 Blocks:
 - Sculk jaw
@@ -96,6 +101,8 @@ Items:
 - Sculk leech spawn egg
 - Sculk cube spawn egg
 - Wraith spawn egg
+- Hive mother spawn egg
+- Sculk Leviathan spawn egg
 - Werewolf spawn egg
 - IP tracker spawn egg
 - Glitchling spawn egg
@@ -114,6 +121,9 @@ Items:
 - Moderator spawn egg
 - Ad drone spawn egg
 - Redstone bug spawn egg
+- Malware core spawn egg
+- Shady spawn egg
+- Kingpin spawn egg
 
 Dimensions:
 - Sculk
@@ -157,8 +167,8 @@ Features:
 - Cyber portals are made the same way as a Nether portal, but the frame is made of iron blocks, and to activate it, place neon. Buckets of neon can be found in ancient cities.
 - Placing two neon sources in a certain way makes an infinite neon source, just like with water. However, neon only works as a fluid in the Cyber dimension since neon is only liquid when it's very cold... or in this case, digital.
 - Placing a sculk catalyst on the ancient city portal will activate the portal.
-- Sculk wings are wings that the player can equip and fly without needing fireworks. However, sculk wings require constant jump button mashing. Because flying requires more effort than people think. That's why birds eat a lot compared to their body size.
-- Cybercats can be tamed with raw cyberfish. They scare off nerd creepers, and when near their owner, they give them the Laughing From The Cybercat effect, which is a combination of haste and speed. When killed, cybercats drop their chip, which can be used to bring them back.
+- Sculk wings are wings that the player can equip and fly without needing fireworks. However, sculk wings require constant jump button mashing. Because flying requires more effort than people think. That's why birds eat so much relative to their body size.
+- Cybercats can be tamed with raw cyberfish. They scare off nerd creepers, and when near their owner, they give them the Laughing From The Cybercat effect, which is a combination of haste and speed. When killed, cybercats drop their chips, which can be used to revive them.
 - Iron tubes can be obtained from crafting one glass block with two iron nuggets. Using iron tubes on neon will make neon sticks, an ingredient for neon lights.
 - Sculkium dowsers can be used to locate ores and structures.
 - Trojan horses can be used to hide iron golems or byte worms.
@@ -170,6 +180,9 @@ Features:
 - When using neon travel nodes, players need to have cookies on them, as each use consumes one cookie.
 - The cookie power effect allows the player to pass through neon gates, but increases the detection range of cyber mobs.
 - Werewolves are undead mobs that use music to attack, very reminiscent of a certain villain/sensei from Skylanders.
+- In the darkest corners of the Cyber dimension, shadies can be found and shoot undesirable files at the player. At the end, a malware core and a kingpin can be found.
+- Placing a block of sculk, patinasculk, tryopsculk with a sculk jaw at the end can summon the Sculk Leviathan, a powerful boss.
+- In each sculk hive, the queen of the hive, the hive mother, can be absolutely ruthless with whoever enters the hive. One grand prize awaits the player when the player defeats the hive mother.
 
 Advancements:
 - A Cyber's World (Enter the Cyber dimension)
@@ -179,3 +192,8 @@ Advancements:
 - Sponsored By NordVPN... Not Really (Hide yourself from an IP tracker with the VPN effect)
 - Let There Be Rock... AOOOOOOOOOO! (Craft a werewolf harp)
 - Big Bad Woofer (Bring a werewolf to the Cyber dimension)
+- Omega Infection (Summon a sculk leviathan)
+- Sepsis Treated (Defeat a sculk leviathan)
+- Successful Quarantine (Defeat a malware core)
+- Pest Control (Defeat a hive mother)
+- Operation Pacifier (Defeat a kingpin and a shady)
