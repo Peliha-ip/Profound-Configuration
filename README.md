@@ -69,6 +69,7 @@ Blocks:
 - Patinasculk amplifier
 - Tryposculk amplifier
 - Neon gate
+- Speaker
 
 Items:
 - Trojan horse
@@ -183,6 +184,7 @@ Features:
 - In the darkest corners of the Cyber dimension, shadies can be found and shoot undesirable files at the player. At the end, a malware core and a kingpin can be found.
 - Placing a block of sculk, patinasculk, tryopsculk with a sculk jaw at the end can summon the Sculk Leviathan, a powerful boss.
 - In each sculk hive, the queen of the hive, the hive mother, can be absolutely ruthless with whoever enters the hive. One grand prize awaits the player upon defeating the hive mother.
+- Range is extended for the werewolf harp when close to a speaker block.
 
 Advancements:
 - A Cyber's World (Enter the Cyber dimension)
@@ -197,3 +199,4 @@ Advancements:
 - Successful Quarantine (Defeat a malware core)
 - Pest Control (Defeat a hive mother)
 - Operation Pacifier (Defeat a kingpin and a shady)
+- You're Gonna Go Far, Kid (Extend your werewolf harp range by being close to a speaker block)
