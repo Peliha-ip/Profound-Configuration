@@ -154,6 +154,9 @@ Structures:
 Foods:
 - Raw cyberfish
 - Cooked cyberfish
+- Raw chicken drumstick
+- Cooked chicken drumstick
+- Golden chicken drumstick
 
 Effects:
 - Laughing From the Cybercat
@@ -200,3 +203,4 @@ Advancements:
 - Pest Control (Defeat a hive mother)
 - Operation Pacifier (Defeat a kingpin and a shady)
 - You're Gonna Go Far, Kid (Extend your werewolf harp range by being close to a speaker block)
+- Kentucky Fried Chicken (Eat a golden chicken drumstick)
